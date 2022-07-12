@@ -1,0 +1,25 @@
+#cloud:
+#  aws:
+#    credentials:
+#      access-key: AKIAX5C37ZFU7TJYEACD
+#      secret-key: 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
+#    region:
+#      static: ap-south-1
+#    stack:
+#      auto: false
+#
+#application:
+#  bucket:
+#    name: doctoriteselfhelp
+
+
+#spring:
+#  servlet:
+#    multipart:
+#      enabled: true
+#      file-size-threshold: 1MB
+#      max-file-size: 5000MB
+#      max-request-size: 10000MB
+
+#server:
+#  port: 8080

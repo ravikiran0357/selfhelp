@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: ZyppysSelfHelp
+Bundle-SymbolicName: ZyppysSelfHelp
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Automatic-Module-Name: ZyppysSelfHelp
+Export-Package: com.zyppysselfhelp,
+ com.zyppysselfhelp.bean,
+ com.zyppysselfhelp.config,
+ com.zyppysselfhelp.controller,
+ com.zyppysselfhelp.exception,
+ com.zyppysselfhelp.modal,
+ com.zyppysselfhelp.repo,
+ com.zyppysselfhelp.service
+Require-Bundle: ZyppysSelfHelp
